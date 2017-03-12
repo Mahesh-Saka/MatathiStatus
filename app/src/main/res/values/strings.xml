@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">मराठी स्टेट्स</string>
+    <string name="lblAboutus">This application designed by MS.
+        \nNote: All the contents in this app are collected from internet.
+    </string>
+   <!--production admob id date:12/03/2017 -->
+    <string name="lblFooter">ca-app-pub-7382162678842698/7810657562</string>
+    <string name="lblInterstitial">ca-app-pub-7382162678842698/1764123965</string>
+</resources>

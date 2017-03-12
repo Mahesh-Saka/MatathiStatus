@@ -1,0 +1,36 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/txtView"
+    android:weightSum="3"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:id="@+id/btnWhatApp"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_margin="10dp"
+        android:layout_marginBottom="20dp"
+        android:layout_weight="1"
+        android:src="@drawable/ic_whatapp"
+        android:textColor="@color/black" />
+
+    <ImageView
+        android:id="@+id/btnCopyText"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_margin="10dp"
+        android:layout_marginBottom="20dp"
+        android:layout_weight="1"
+        android:src="@drawable/ic_copy"
+        android:textColor="@color/black" />
+
+    <ImageView
+        android:id="@+id/btnShare"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_margin="10dp"
+        android:layout_marginBottom="20dp"
+        android:layout_weight="1"
+        android:src="@drawable/ic_share_color"
+        android:textColor="@color/black" />
+</LinearLayout>
